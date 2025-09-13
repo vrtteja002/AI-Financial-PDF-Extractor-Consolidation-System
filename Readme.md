@@ -45,7 +45,7 @@ A powerful AI-driven application that extracts, analyzes, and consolidates finan
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/financial-pdf-extractor.git
+   git clone https://github.com/vrtteja002/AI-Financial-PDF-Extractor-Consolidation-System.git
    cd financial-pdf-extractor
    ```
 
