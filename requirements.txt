@@ -1,0 +1,16 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+openpyxl
+Pillow
+pdf2image
+poppler-utils
+openai
+plotly
+python-dotenv
+python-dateutil
+pytz
+requests
+zipfile36
+
