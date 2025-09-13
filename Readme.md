@@ -283,7 +283,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: Check this README and inline code comments
 - **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: [your-email@domain.com] for private inquiries
 
 ## 🙏 Acknowledgments
 
